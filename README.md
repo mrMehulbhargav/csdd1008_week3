@@ -43,7 +43,7 @@ We learned some essential Linux commands using the terminal:
 - **rm**: rm is use to delete the files or directories.
 - **sudo**: sudo  is use to update the software on our system.
 
-##These commands help us to manage and navigate the Linux system efficiently.
+## These commands help us to manage and navigate the Linux system efficiently.
 
 
 ## Conclusion
